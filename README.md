@@ -178,4 +178,4 @@ Me chamo Julia Maria dos Santos, tenho 26 anos e sou natural de São Paulo. Conc
       height="200" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevJuliaMa&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
-  <p/>
+  </p>
